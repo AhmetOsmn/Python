@@ -1,0 +1,50 @@
+Ahmet Sezgin,80,95
+Delal Abdullatif Abzak,45,60
+Fatma Özlem,95,100
+Özde Acarkan,80,55
+Atahan Adanır,35,45
+Mehmet	Adıgüzel,84,85
+Mükerrem Zeynep	Ağca,76,90
+Bestami Ağırağaç,48,99
+Aykanat	Ağıroğlu,56,56
+Şennur Ağnar,33,25
+Sevinç Ak,30,65
+Sevinç Ak,20,100
+Lemi Akarçay,16,67
+Cihan Akarpınar,67,45
+Rafi Akaş,33,67
+Mehmetcan Akay,47,98
+Nuhaydar Akbilmez,12,88
+Emine Münevver Akca,43,24
+Servet Akçagunay,28,90
+Çilem Akçay,38,93
+Recep Ali Samet	Akdoğan,83,66
+Emre Akfırat,23,68
+Kerime Hacer Akıllı,89,45
+Ercüment Akıncılar,53,23
+Berker Akkiray,65,23
+İclal Akkoyun,75,95
+Lemis Akküt,84,55
+Ahmet Çörekçi,86,64
+Ata Kerem Akman,15,95
+Ahmet Akoğuz,77,25
+Ecem Akova,23,87
+Nüket Aksan,76,34
+Senem Aksevim,66,09
+Ayşen Aksoy,80,88
+Pekcan Aksöz,68,94
+Bedirhan Lastik,56,65
+Semina Aktuna,56,76
+Eda Sena Akyıldız,86,56
+Müyesser Akyildirim,56,78
+Selinti	Al,77,57
+Bahar Özlem,55,97
+İlma Aldağ,73,77
+Kutlu Alibeyoğlu,56,68
+Nesibe Nurefşan	Alkan,65,58
+Ömer Buğra Alparslan,55,96
+Hiba Alpuğan,74,98
+Mazlum Altan,37,57
+Elif Tuğçe Altaş,77,67
+Ahmet Ruken,56,85
+Anıl Altın,48,64
